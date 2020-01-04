@@ -4,6 +4,7 @@
 # golang output binary directory
 bin
 node_modules
+.idea
 
 # golang vendor (dependencies) directory
 vendor

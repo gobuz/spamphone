@@ -1,6 +1,7 @@
 # Public Spam
 
 This is the demo golang project that applies Hexagonal architecture.
+Link of article: [Medium](https://medium.com/@nguyenhoai890/golang-project-applied-hexagonal-architecture-cd278f62c90d)
 
 ## Getting Started
 
