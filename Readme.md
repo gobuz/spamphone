@@ -5,8 +5,6 @@ Link of article: [Medium](https://medium.com/@nguyenhoai890/golang-project-appli
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 This project is using:
  1. go mod. 
  2. Viper to read the configuration. 
